@@ -4,7 +4,6 @@
 
 SavingsHunt is an intelligent chatbot that helps you maximize your savings through deal discovery, subscription optimization, group purchasing coordination, and fraud prevention. Built with Next.js and powered by multiple AI models for the most comprehensive savings advice.
 
-![SavingsHunt Interface](https://savings-hunt.vercel.app/)
 
 ## ✨ Features
 
@@ -188,12 +187,5 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- Built with ❤️ using Vercel's AI SDK
-- Inspired by the need for smarter financial decision-making
-- Thanks to the open-source community for amazing tools and libraries
-
----
 
 **Start saving smarter today with SavingsHunt!** 💰✨
