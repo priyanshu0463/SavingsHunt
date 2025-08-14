@@ -4,7 +4,7 @@
 
 SavingsHunt is an intelligent chatbot that helps you maximize your savings through deal discovery, subscription optimization, group purchasing coordination, and fraud prevention. Built with Next.js and powered by multiple AI models for the most comprehensive savings advice.
 
-![SavingsHunt Interface](https://via.placeholder.com/800x400/1f2937/ffffff?text=Savings+Copilot+Interface)
+![SavingsHunt Interface](https://savings-hunt.vercel.app/)
 
 ## ✨ Features
 
