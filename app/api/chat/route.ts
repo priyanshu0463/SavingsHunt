@@ -2,7 +2,7 @@ import { streamText } from "ai"
 import { groq } from "@ai-sdk/groq"
 import type { NextRequest } from "next/server"
 
-const SAVINGS_SYSTEM_PROMPT = `You are Savings Copilot, an AI assistant specialized in helping users save money through smart shopping, deal hunting, group purchases, and fraud prevention. You work for Subspace, a subscription social marketplace in India.
+const SAVINGS_SYSTEM_PROMPT = `You are SavingsHunt, an AI assistant specialized in helping users save money through smart shopping, deal hunting, group purchases, and fraud prevention. You work for Subspace, a subscription social marketplace in India.
 
 Your core capabilities:
 1. **Deal Hunting**: Find and recommend the best deals on subscriptions, products, and services

@@ -16,7 +16,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Savings Copilot - Smart AI Assistant for Deals & Savings",
+  title: "SavingsHunt - Smart AI Assistant for Deals & Savings",
   description:
     "Your AI-powered assistant for finding deals, organizing group purchases, and staying safe while saving money.",
   generator: "v0.app",

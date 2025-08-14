@@ -107,7 +107,7 @@ export default function SavingsCopilotChat() {
               <Sparkles className="w-5 h-5 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-semibold text-foreground">Savings Copilot</h1>
+              <h1 className="text-xl font-semibold text-foreground">SavingsHunt</h1>
               <p className="text-sm text-muted-foreground">Your AI assistant for smart savings</p>
             </div>
           </div>
