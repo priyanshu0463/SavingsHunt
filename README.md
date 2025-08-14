@@ -1,4 +1,4 @@
-# 💰 SavingsHunt
+# [💰 SavingsHunt](https://savings-hunt.vercel.app/)
 
 > Your AI-powered assistant for smart savings, deal hunting, and subscription management
 
@@ -187,5 +187,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+---
 
 **Start saving smarter today with SavingsHunt!** 💰✨
